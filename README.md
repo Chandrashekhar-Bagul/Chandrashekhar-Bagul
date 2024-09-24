@@ -1,3 +1,4 @@
+![logo](https://imagef.promeai.pro/immerse-static/pixabay/2024/04/18/3570ce7b338c46369ee44856c5025edf.jpeg?width=853&height=480&fit=contain&format=webp) 
 <h1 align="center">Hi 👋, I'm Chandrashekhar Bagul</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <image align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&s">
